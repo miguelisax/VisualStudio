@@ -1,0 +1,5 @@
+gh repo clone github/VisualStudio{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  }
+}
